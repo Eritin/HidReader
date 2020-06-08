@@ -1,0 +1,7 @@
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\bin\Debug\HidReader.exe.config
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\bin\Debug\HidReader.exe
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\bin\Debug\HidReader.pdb
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\obj\Debug\HidReader.csprojAssemblyReference.cache
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\obj\Debug\HidReader.csproj.CoreCompileInputs.cache
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\obj\Debug\HidReader.exe
+C:\Users\32504\Desktop\repository\HidReader\HidReader\HidReader\obj\Debug\HidReader.pdb
